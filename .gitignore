@@ -47,7 +47,7 @@ SourceArt/**/*.tga
 
 # Binary Files
 Binaries/*
-Plugins/**/Binaries/*
+Plugins/*/Binaries/*
 
 # Builds
 Build/*
@@ -68,7 +68,51 @@ Saved/*
 
 # Compiled source files for the engine to use
 Intermediate/*
-Plugins/**/Intermediate/*
+Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+#Content folder that will be shared by google drive
+Content/AfricanAnimalsPack
+Content/AnimalVarietyPack
+Content/CapstoneAnim
+Content/Collections
+Content/Developers
+Content/FPWeapon
+Content/Geometry
+Content/image
+Content/LPGenericPropsSet10
+Content/MakeMap
+Content/Mannequin
+Content/Material
+Content/Megapack
+Content/Megascans
+Content/Meshes
+Content/MSPresets
+Content/Scanned3DPeoplePack
+Content/StarterContent
+Content/STF
+Content/StylizedProvencal
+Content/ThirdPerson
+Content/ThirdPersonBP
+Content/TMEntertainmentPack1
+Content/TMStoragesPack1
+Content/CommercialPlane
+Content/GameInstance
+Content/Geometry
+Content/Localization
+Content/MS_Fruits
+Content/MS_Vegetables
+Content/MSPresets
+Content/Sound
+Content/TMEntertainmentPack1
+Content/TMSportsEquipmentPack2
+Content/TMStoragesPack1
+Content/
+Content/
+
+
+
+
+
